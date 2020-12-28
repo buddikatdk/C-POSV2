@@ -1,3 +1,3 @@
 # C-POSV2
 C# pos version2
-Stricly say;code is just for testing purposes
+This publication just for Educational purposes educational and testing purposes only
